@@ -1,5 +1,7 @@
 # TechPulse - Global Tech News Dashboard
 
+**Live demo:** [global-tech-news-dashboard.vercel.app](https://global-tech-news-dashboard.vercel.app/)
+
 Day 3 Assignment 2: a frontend-only dashboard that surfaces trending technology
 news and trending GitHub repositories, with search, category filtering,
 bookmarks, and dark/light mode.
