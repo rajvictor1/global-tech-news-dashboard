@@ -28,6 +28,24 @@ bookmarks, and dark/light mode.
   news and GitHub data and updates "Last updated"), and source credits.
 - **Responsive** - usable on desktop, tablet and mobile.
 
+## Screenshots
+
+| Dashboard (dark) | Dashboard (light) |
+| --- | --- |
+| ![Dashboard dark mode](docs/screenshots/dashboard-dark.jpg) | ![Dashboard light mode](docs/screenshots/dashboard-light.jpg) |
+
+| Category filter | Search (news + repos) |
+| --- | --- |
+| ![Category filter](docs/screenshots/category-filter.jpg) | ![Search](docs/screenshots/search.jpg) |
+
+| Infinite scroll | GitHub Trending |
+| --- | --- |
+| ![Infinite scroll](docs/screenshots/infinite-scroll.jpg) | ![GitHub Trending](docs/screenshots/github-trending.jpg) |
+
+| Footer |
+| --- |
+| ![Footer](docs/screenshots/footer.jpg) |
+
 ## Tech stack
 
 - React 19 + Vite
